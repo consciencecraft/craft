@@ -1,0 +1,11 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Working Title"
+author = "Lyman"
+
+[params]
+	logo = "/images/logo.jpg"
+	copyright = "Lyman Craft All rights reserved"
+	
+
+
